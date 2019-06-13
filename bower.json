@@ -1,0 +1,17 @@
+{
+  "name": "ng-static",
+  "description": "",
+  "main": "",
+  "authors": [
+    "y1364 <yingjj@dtdream.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
